@@ -4,7 +4,9 @@
 
 ## Phase I: Go from one end of the table to the other and back.
 
-
+- `sensor_test.py`: Testing out a sensor with a QT Py 2040
+- `sensor_test2.py`: Testing out multiple sensors with a RPi Pico
+- `code.py`: The bot code.
 
 ## Phase II: Find and Push a block off the table.
 
